@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rupesh Nitin Kalekar</h1>
-<h3 align="center">Data Analyst | Machine Learning Engineer | Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer | Machine Learning Engineer | Data Analyst </h3>
 
 <p align="center">
   <em>B.E. Graduate in Artificial Intelligence & Data Science | Data-driven problem solver</em>
